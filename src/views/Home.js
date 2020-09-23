@@ -40,6 +40,9 @@ function Home(){
             color:'linear-gradient(to bottom, #8ac9fe ,#2d86ff)'
         },
     ]
+    const goShopIndex=(loc)=>{
+        this.props.history.push(loc)
+    }
     return (
         <div style={{background:'#f0f0f0'}}>
             <div className="home_header" style={{background:'url(./img/oss_5c2497f0c4f9f.jpg) no-repeat center /100%'}}>
@@ -51,7 +54,7 @@ function Home(){
                 />
                 <Input placeholder="输入区域，小区搜索房源" prefix={<SearchOutlined />} />
             </div>
-            <Row gutter={{xs: 8, sm: 16, md: 24, lg: 32}} style={{background:'#fff'}}>
+            <Row gutter={24} style={{background:'#fff',margin:0}}>
                 {
                     homenav.map((item)=>{
                         return <Col className="gutter-row" span={6}>
