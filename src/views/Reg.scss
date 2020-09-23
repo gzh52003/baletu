@@ -1,0 +1,93 @@
+.reg_wrap{
+    height:667px;
+}
+.reg_header{
+    text-align: center;
+    line-height: 20px;
+    position: relative;
+    margin-top: 10px;
+    
+    
+    .wel_reg{
+        // position:absolute;
+        // top:10px;
+        // left:10px;
+    }
+    .anticon-left{
+
+        svg{
+            position: absolute;
+            height: 20px;
+            top: 1px;
+            left: 10px;
+        }
+    }
+
+}
+
+.reg_box{
+    width:307px;
+    box-sizing:border-box;
+    margin:auto;
+    margin-top:40px;
+}
+
+.reg_username{
+    border-radius:22px 22px;
+    text-align:center;
+    height:44px;
+    width:307px;
+    background-color:#F2F2F2;
+    line-height:44px;
+    margin-bottom:14px;
+    position:relative;
+
+    img{
+        height:15px;
+        position:absolute;
+         top:15px;
+        left:31px;
+    }
+
+    input{
+        background-color:#F2F2F2;
+        border:none;
+        outline:none;
+        height:22px;
+    }
+}
+.reg_password{
+    border-radius:22px 22px;
+    text-align:center;
+    height:44px;
+    width:307px;
+    background-color:#F2F2F2;
+    line-height:44px;
+    position:relative;
+
+       img{
+        height:15px;
+        position:absolute;
+        top:15px;
+        left:31px;
+    }
+    
+    input{
+        background-color:#F2F2F2;
+        border:none;
+        outline:none;
+        height:22px;
+    }
+}
+
+.submit{
+    width:100%;
+    text-align:center;
+}
+.reg_btn{
+    background-color:#BDBDBE;
+    border:none;
+    margin:auto;
+    margin-top:35px;
+    
+}

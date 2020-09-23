@@ -1,5 +1,5 @@
 import React,{Suspense, lazy} from 'react';
-import './App.css';
+import './App.scss';
 import {withRouter,BrowserRouter,Route,Redirect,Switch,Link,NAVLink} from 'react-router-dom';
 // @withRouter
 
@@ -11,7 +11,7 @@ import Home from './views/Home'
 const Reg = lazy(() => import("./views/Reg"))
 const Login = lazy(() => import("./views/Login"))
 const List = lazy(() => import("./views/List"))
-const Mine = lazy(() => import("./views/Mine"))
+const Mine = lazy(() => import("./views/Mine/Index"))
 const Single = lazy(() => import("./views/Single"))
 
 
