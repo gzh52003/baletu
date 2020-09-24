@@ -101,3 +101,27 @@
     border-top: 10px solid #F0F0F0;
     height: 71px;
 }
+.will_login{
+    position: absolute;
+    top: 62px;
+    left: 80px;
+}
+.u_name{
+    margin-left: 10px;
+}
+.login_out{
+    margin-left: 20px;
+    position: absolute;
+    width: 75px;
+    top: 10px;
+    left: 180px;
+
+    img{
+        height: 15px;
+        width: 15px;
+    }
+
+    span{
+        font-size: 14px;
+    }
+}

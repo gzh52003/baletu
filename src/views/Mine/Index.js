@@ -1,14 +1,35 @@
-import React,{useState} from 'react';
+import React,{useState,useEffect} from 'react';
 import './Index.scss';
 import {LeftOutlined,RightOutlined} from '@ant-design/icons'
-import { List, Typography, Divider } from 'antd';
+import { List, Typography,Popover} from 'antd';
 // import React, { useState, useEffect,useMemo,useCallback } from 'react';
 
 
 function Mine(props){
   // const {path,gotoLogin} = useState('./mine')
   // const skipLogin = useCallback(function)
-  console.log(props);
+
+  const [user,changeUser] = useState('')
+  useEffect(function () {
+    let currentUser = localStorage.getItem('currentUser');
+        try{
+            currentUser = JSON.parse(currentUser)
+        }catch(err){
+            currentUser = currentUser;
+        }
+
+        if(!currentUser){
+            currentUser = {}
+        }
+
+        console.log(currentUser);
+        currentUser
+        changeUser(currentUser)
+  },[])
+  console.log(user);
+  
+  
+  
   const data = [
     {text:'在线交租',icon:"//js.baletoo.cn/static/m/static/images/jiaozu.png"},
     {text:'推荐房源',icon:"//js.baletoo.cn/static/m/static/images/tuijian.png"},
@@ -28,9 +49,39 @@ function Mine(props){
         </div>
         <div className="login_and_btn">
             <img src="http://js.baletoo.cn/static/m/static/images/tx.png" />
+
+
+
+
+
+        {user.username? 
+        <div className="will_login">
+          <span className="u_name">{user.username}</span>
+          <div className="login_out" onClick={()=>{
+              
+              props.history.push('./home')
+              localStorage.removeItem('currentUser');
+            }}>
+              <img src="//js.baletoo.cn/static/m/static/images/signout.png"/>
+              <span>退出登录</span>
+              </div>
+            </div>
+            :
+            <div className="will_login">
             <span className="login" onClick={()=>{props.history.push('../Login')}}>登录</span>
             <span>/</span>
             <span className="reg" onClick={()=>{props.history.push('../Reg')}}>注册</span>
+            </div>}
+
+       
+        
+    
+
+
+            
+
+
+
         </div>
         <>
     <List
