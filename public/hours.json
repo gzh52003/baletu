@@ -1,0 +1,1017 @@
+
+{
+    "area_direction" : "25M² | 朝东北",
+    "floor" : "2/6",
+    "house_address_desc" : "3号线北延段(京溪南方医院站)，步行13分钟",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝东北·2楼",
+    "house_id" : "5721968",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_945e239dbde1494e.png",
+    "house_photo_num" : 3,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 白水塘南街三巷12号B栋 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 980,
+    "subdistrict_address" : "白水塘南街三巷12号B栋",
+    "subdistrict_name" : "白水塘南街三巷12号B栋"
+}
+
+{
+    "area_direction" : "45M² | 朝西北",
+    "floor" : "3/6",
+    "house_address_desc" : "天河-东圃",
+    "house_area_desc" : "天河-东圃",
+    "house_desc" : "朝西北·3楼",
+    "house_id" : "4481067",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_a7b28f9f99bc4465.png",
+    "house_photo_num" : 8,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "保洁服务", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 爱尚公寓（黄村南胜里上四巷11号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 750,
+    "subdistrict_address" : "黄村南胜里上四巷11号",
+    "subdistrict_name" : "爱尚公寓（黄村南胜里上四巷11号）"
+}
+
+{
+    "area_direction" : "15M² | 朝东南",
+    "floor" : "2/9",
+    "house_address_desc" : "白云-嘉禾望岗",
+    "house_area_desc" : "白云-嘉禾望岗",
+    "house_desc" : "朝东南·2楼",
+    "house_id" : "5706232",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_62b871a83e544d8d.png",
+    "house_photo_num" : 7,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "带阳台", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 望岗东胜街五巷18号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 480,
+    "subdistrict_address" : "望岗东胜街五巷18号",
+    "subdistrict_name" : "望岗东胜街五巷18号"
+}
+
+{
+    "area_direction" : "35M² | 朝西",
+    "floor" : "3/5",
+    "house_address_desc" : "天河-东圃",
+    "house_area_desc" : "天河-东圃",
+    "house_desc" : "朝西·3楼",
+    "house_id" : "4480726",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_5d0afa83172c5.jpg",
+    "house_photo_num" : 8,
+    "house_tags" : [ 
+        "租金月付", 
+        "带阳台", 
+        "保洁服务", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 爱尚公寓（黄村庙元一横街4号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 700,
+    "subdistrict_address" : "黄村庙元一横街4号",
+    "subdistrict_name" : "爱尚公寓（黄村庙元一横街4号）"
+}
+
+{
+    "area_direction" : "20M² | 朝西北",
+    "floor" : "5/5",
+    "house_address_desc" : "天河-车陂",
+    "house_area_desc" : "天河-车陂",
+    "house_desc" : "朝西北·5楼",
+    "house_id" : "7107013",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_21a3c8cdd65446b4.png",
+    "house_photo_num" : 8,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 车陂大塘街一巷2号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1500,
+    "subdistrict_address" : "车陂大塘街一巷2号",
+    "subdistrict_name" : "车陂大塘街一巷2号"
+}
+
+{
+    "area_direction" : "25M² | 朝东北",
+    "floor" : "5/7",
+    "house_address_desc" : "5号线(三溪站)，步行9分钟",
+    "house_area_desc" : "天河-天河北",
+    "house_desc" : "朝东北·5楼",
+    "house_id" : "6575014",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_7aaa946f3e664ee8.jpeg",
+    "house_photo_num" : 8,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 石溪天禄街西一巷9号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 900,
+    "subdistrict_address" : "石溪天禄街西一巷9号",
+    "subdistrict_name" : "石溪天禄街西一巷9号"
+}
+
+{
+    "area_direction" : "20M² | 朝西北",
+    "floor" : "5/7",
+    "house_address_desc" : "2号线(江夏站)，步行8分钟",
+    "house_area_desc" : "白云-黄石",
+    "house_desc" : "朝西北·5楼",
+    "house_id" : "5596425",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_bbe623e8a67b4be6.png",
+    "house_photo_num" : 4,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "带阳台", 
+        "保洁服务", 
+        "新上架", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 江夏村东一街二十巷2号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1300,
+    "subdistrict_address" : "江夏村东一街二十巷2号",
+    "subdistrict_name" : "江夏村东一街二十巷2号"
+}
+
+{
+    "area_direction" : "30M² | 朝东南",
+    "floor" : "8/8",
+    "house_address_desc" : "白云-白云大道",
+    "house_area_desc" : "白云-白云大道",
+    "house_desc" : "朝东南·8楼",
+    "house_id" : "6001207",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_9b95b068bbbf49a7.png",
+    "house_photo_num" : 7,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 江夏村岭西11号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 760,
+    "subdistrict_address" : "江夏村岭西11号",
+    "subdistrict_name" : "江夏村岭西11号"
+}
+
+{
+    "area_direction" : "35M² | 朝西南",
+    "floor" : "9/9",
+    "house_address_desc" : "天河-后天河北",
+    "house_area_desc" : "天河-后天河北",
+    "house_desc" : "朝西南·9楼",
+    "house_id" : "5727936",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_a2c2ead31fd24b36.jpeg",
+    "house_photo_num" : 25,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "带阳台", 
+        "保洁服务", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 元岗物业（下元岗东头4巷6号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1850,
+    "subdistrict_address" : "下元岗东头4巷6号",
+    "subdistrict_name" : "元岗物业（下元岗东头4巷6号）"
+}
+
+{
+    "area_direction" : "20M² | 朝西南",
+    "floor" : "8/8",
+    "house_address_desc" : "3号线北延段(永泰站)，步行11分钟",
+    "house_area_desc" : "白云-南湖",
+    "house_desc" : "朝西南·8楼",
+    "house_id" : "6694641",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_5f290753ed18e.png",
+    "house_photo_num" : 5,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 永泰沙娇岭路2号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 550,
+    "subdistrict_address" : "永泰沙娇岭路2号",
+    "subdistrict_name" : "永泰沙娇岭路2号"
+}
+
+{
+    "area_direction" : "45M² | 朝东南",
+    "floor" : "6/12",
+    "house_address_desc" : "白云-嘉禾望岗",
+    "house_area_desc" : "白云-嘉禾望岗",
+    "house_desc" : "朝东南·6楼",
+    "house_id" : "4886007",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_03e0f1a63e144e15.png",
+    "house_photo_num" : 13,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 新豪电梯公寓（嘉禾望岗百花岭南街四巷4号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1300,
+    "subdistrict_address" : "嘉禾望岗百花岭南街四巷4号",
+    "subdistrict_name" : "新豪电梯公寓（嘉禾望岗百花岭南街四巷4号）"
+}
+
+{
+    "area_direction" : "20M² | 朝东南",
+    "floor" : "9/9",
+    "house_address_desc" : "白云-嘉禾望岗",
+    "house_area_desc" : "白云-嘉禾望岗",
+    "house_desc" : "朝东南·9楼",
+    "house_id" : "5706255",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_267b87f03ae148d7.jpeg",
+    "house_photo_num" : 5,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "带阳台", 
+        "新上架", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 望岗东胜街五巷18号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 700,
+    "subdistrict_address" : "望岗东胜街五巷18号",
+    "subdistrict_name" : "望岗东胜街五巷18号"
+}
+
+{
+    "area_direction" : "35M² | 朝东",
+    "floor" : "5/7",
+    "house_address_desc" : "天河-东圃",
+    "house_area_desc" : "天河-东圃",
+    "house_desc" : "朝东·5楼",
+    "house_id" : "5749230",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_8e4aaefa004d4b4c.jpeg",
+    "house_photo_num" : 8,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 宦溪南边街新巷7号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 700,
+    "subdistrict_address" : "宦溪南边街新巷7号",
+    "subdistrict_name" : "宦溪南边街新巷7号"
+}
+
+{
+    "area_direction" : "25M² | 朝西南",
+    "floor" : "4/4",
+    "house_address_desc" : "白云-同和",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝西南·4楼",
+    "house_id" : "6155964",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_f893b30e83794def.png",
+    "house_photo_num" : 10,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 白水塘南街三巷8号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 880,
+    "subdistrict_address" : "白水塘南街三巷8号",
+    "subdistrict_name" : "白水塘南街三巷8号"
+}
+
+{
+    "area_direction" : "40M² | 朝南",
+    "floor" : "1/6",
+    "house_address_desc" : "2号线(江夏站)，步行10分钟",
+    "house_area_desc" : "白云-江夏",
+    "house_desc" : "朝南·1楼",
+    "house_id" : "6452648",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_3fd1f7b542144c06.jpeg",
+    "house_photo_num" : 10,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "保洁服务", 
+        "电梯房", 
+        "朝南"
+    ],
+    "house_title" : "公寓 江夏村东一街六巷4号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1800,
+    "subdistrict_address" : "江夏村东一街六巷4号",
+    "subdistrict_name" : "江夏村东一街六巷4号"
+}
+
+{
+    "area_direction" : "45M² | 朝西北",
+    "floor" : "5/6",
+    "house_address_desc" : "3号线北延段(京溪南方医院站)，步行13分钟",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝西北·5楼",
+    "house_id" : "5721977",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_62fbd41c1e6d4215.jpeg",
+    "house_photo_num" : 8,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 白水塘南街三巷12号B栋 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1980,
+    "subdistrict_address" : "白水塘南街三巷12号B栋",
+    "subdistrict_name" : "白水塘南街三巷12号B栋"
+}
+
+{
+    "area_direction" : "45M² | 朝西北",
+    "floor" : "4/5",
+    "house_address_desc" : "2号线(江夏站)，步行5分钟",
+    "house_area_desc" : "白云-黄石",
+    "house_desc" : "朝西北·4楼",
+    "house_id" : "5642313",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_62269fecfb014ce8.jpeg",
+    "house_photo_num" : 38,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "带阳台", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 江夏北二路五巷3号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 2180,
+    "subdistrict_address" : "江夏北二路五巷3号",
+    "subdistrict_name" : "江夏北二路五巷3号"
+}
+
+{
+    "area_direction" : "20M² | 朝东南",
+    "floor" : "1/6",
+    "house_address_desc" : "天河-东圃",
+    "house_area_desc" : "天河-东圃",
+    "house_desc" : "朝东南·1楼",
+    "house_id" : "7144521",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_dcde4f4fb33746ab.jpeg",
+    "house_photo_num" : 5,
+    "house_tags" : [ 
+        "租金月付"
+    ],
+    "house_title" : "公寓 宦溪南边街31号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 400,
+    "subdistrict_address" : "宦溪南边街31号",
+    "subdistrict_name" : "宦溪南边街31号"
+}
+
+{
+    "area_direction" : "60M² | 朝东北",
+    "floor" : "6/6",
+    "house_address_desc" : "天河-东圃",
+    "house_area_desc" : "天河-东圃",
+    "house_desc" : "朝东北·6楼",
+    "house_id" : "4480919",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_999714a9f9e843b5.png",
+    "house_photo_num" : 13,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "带阳台", 
+        "保洁服务", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 爱尚公寓（黄村南胜上七巷1号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1580,
+    "subdistrict_address" : "黄村南胜上七巷1号",
+    "subdistrict_name" : "爱尚公寓（黄村南胜上七巷1号）"
+}
+
+{
+    "area_direction" : "15M² | 朝南",
+    "floor" : "6/9",
+    "house_address_desc" : "白云-嘉禾望岗",
+    "house_area_desc" : "白云-嘉禾望岗",
+    "house_desc" : "朝南·6楼",
+    "house_id" : "5706272",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_a660c4c8045847f5.png",
+    "house_photo_num" : 5,
+    "house_tags" : [ 
+        "租金月付", 
+        "带阳台", 
+        "新上架", 
+        "电梯房", 
+        "非一楼", 
+        "朝南"
+    ],
+    "house_title" : "公寓 望岗东胜街五巷18号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 450,
+    "subdistrict_address" : "望岗东胜街五巷18号",
+    "subdistrict_name" : "望岗东胜街五巷18号"
+}
+
+{
+    "area_direction" : "60M² | 朝东北",
+    "floor" : "6/6",
+    "house_address_desc" : "天河-东圃",
+    "house_area_desc" : "天河-东圃",
+    "house_desc" : "朝东北·6楼",
+    "house_id" : "4480919",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_999714a9f9e843b5.png",
+    "house_photo_num" : 13,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "带阳台", 
+        "保洁服务", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 爱尚公寓（黄村南胜上七巷1号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1580,
+    "subdistrict_address" : "黄村南胜上七巷1号",
+    "subdistrict_name" : "爱尚公寓（黄村南胜上七巷1号）"
+}
+
+{
+    "area_direction" : "80M² | 朝北",
+    "floor" : "3/7",
+    "house_address_desc" : "6号线(植物园站)，步行13分钟",
+    "house_area_desc" : "天河-龙洞",
+    "house_desc" : "朝北·3楼",
+    "house_id" : "5072494",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_82c9dd3b62c54e54.png",
+    "house_photo_num" : 29,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 龙洞直街58号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 2000,
+    "subdistrict_address" : "龙洞直街58号",
+    "subdistrict_name" : "龙洞直街58号"
+}
+
+{
+    "area_direction" : "30M² | 朝东",
+    "floor" : "4/7",
+    "house_address_desc" : "白云-同和",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝东·4楼",
+    "house_id" : "6600705",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_b03cafb018764a9a.png",
+    "house_photo_num" : 5,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "新上架", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 百花岭南街三巷3号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 450,
+    "subdistrict_address" : "百花岭南街三巷3号",
+    "subdistrict_name" : "百花岭南街三巷3号"
+}
+
+{
+    "area_direction" : "30M² | 朝西南",
+    "floor" : "3/8",
+    "house_address_desc" : "白云-白云大道",
+    "house_area_desc" : "白云-白云大道",
+    "house_desc" : "朝西南·3楼",
+    "house_id" : "6001181",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_5b3109381bc24b19.png",
+    "house_photo_num" : 18,
+    "house_tags" : [ 
+        "租金月付", 
+        "居住证", 
+        "独卫", 
+        "带阳台", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 江夏村岭西11号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 700,
+    "subdistrict_address" : "江夏村岭西11号",
+    "subdistrict_name" : "江夏村岭西11号"
+}
+
+{
+    "area_direction" : "60M² | 朝北",
+    "floor" : "5/6",
+    "house_address_desc" : "2号线(江夏站)，步行11分钟",
+    "house_area_desc" : "白云-江夏",
+    "house_desc" : "朝北·5楼",
+    "house_id" : "7194941",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_728c593a0c854b9d.png",
+    "house_photo_num" : 9,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 江夏大塘大街24号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1400,
+    "subdistrict_address" : "江夏大塘大街24号",
+    "subdistrict_name" : "江夏大塘大街24号"
+}
+
+{
+    "area_direction" : "25M² | 朝南",
+    "floor" : "2/4",
+    "house_address_desc" : "白云-同和",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝南·2楼",
+    "house_id" : "6155958",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_82637cebafea4b02.png",
+    "house_photo_num" : 6,
+    "house_tags" : [ 
+        "租金月付", 
+        "带阳台", 
+        "非一楼", 
+        "朝南"
+    ],
+    "house_title" : "公寓 白水塘南街三巷8号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1080,
+    "subdistrict_address" : "白水塘南街三巷8号",
+    "subdistrict_name" : "白水塘南街三巷8号"
+}
+
+{
+    "area_direction" : "25M² | 朝西北",
+    "floor" : "1/7",
+    "house_address_desc" : "天河-天河北",
+    "house_area_desc" : "天河-天河北",
+    "house_desc" : "朝西北·1楼",
+    "house_id" : "6159629",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_b286de915a0643ff.png",
+    "house_photo_num" : 5,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "保洁服务"
+    ],
+    "house_title" : "公寓 福庭公寓（上元岗东大街3号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1150,
+    "subdistrict_address" : "上元岗东大街3号",
+    "subdistrict_name" : "福庭公寓（上元岗东大街3号）"
+}
+
+{
+    "area_direction" : "20M² | 朝东南",
+    "floor" : "8/8",
+    "house_address_desc" : "3号线北延段(永泰站)，步行11分钟",
+    "house_area_desc" : "白云-南湖",
+    "house_desc" : "朝东南·8楼",
+    "house_id" : "6694642",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_3689a44949b84f2d.png",
+    "house_photo_num" : 4,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 永泰沙娇岭路2号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 500,
+    "subdistrict_address" : "永泰沙娇岭路2号",
+    "subdistrict_name" : "永泰沙娇岭路2号"
+}
+
+{
+    "area_direction" : "30M² | 朝西南",
+    "floor" : "4/6",
+    "house_address_desc" : "天河-后天河北",
+    "house_area_desc" : "天河-后天河北",
+    "house_desc" : "朝西南·4楼",
+    "house_id" : "3990350",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_f1cf07bbcbfc4583.jpeg",
+    "house_photo_num" : 11,
+    "house_tags" : [ 
+        "租金月付", 
+        "带阳台", 
+        "保洁服务", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 元岗物业（下元岗永春巷9号） ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1500,
+    "subdistrict_address" : "下元岗永春巷9号",
+    "subdistrict_name" : "元岗物业（下元岗永春巷9号）"
+}
+
+{
+    "area_direction" : "35M² | 朝西",
+    "floor" : "4/6",
+    "house_address_desc" : "3号线北延段(京溪南方医院站)，步行13分钟",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝西·4楼",
+    "house_id" : "5721996",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "平台实拍",
+    "house_main_image" : "oss_545393857c32426a.jpeg",
+    "house_photo_num" : 17,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 白水塘南街三巷12号C栋 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1280,
+    "subdistrict_address" : "白水塘南街三巷12号C栋",
+    "subdistrict_name" : "白水塘南街三巷12号C栋"
+}
+
+{
+    "area_direction" : "30M² | 朝西",
+    "floor" : "8/8",
+    "house_address_desc" : "3号线北延段(永泰站)，步行11分钟",
+    "house_area_desc" : "白云-南湖",
+    "house_desc" : "朝西·8楼",
+    "house_id" : "6694638",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_4305102a997a4cc9.png",
+    "house_photo_num" : 6,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 永泰沙娇岭路2号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 700,
+    "subdistrict_address" : "永泰沙娇岭路2号",
+    "subdistrict_name" : "永泰沙娇岭路2号"
+}
+
+{
+    "area_direction" : "45M² | 朝西南",
+    "floor" : "4/7",
+    "house_address_desc" : "天河-龙洞",
+    "house_area_desc" : "天河-龙洞",
+    "house_desc" : "朝西南·4楼",
+    "house_id" : "4885578",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_7269e39dcfad4646.png",
+    "house_photo_num" : 13,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "带阳台", 
+        "新上架", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 龙洞东大街95号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1400,
+    "subdistrict_address" : "龙洞东大街95号",
+    "subdistrict_name" : "龙洞东大街95号"
+}
+
+{
+    "area_direction" : "30M² | 朝西北",
+    "floor" : "5/9",
+    "house_address_desc" : "白云-新市",
+    "house_area_desc" : "白云-新市",
+    "house_desc" : "朝西北·5楼",
+    "house_id" : "4010066",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_93d3d953dd0e476e.png",
+    "house_photo_num" : 7,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 和澳公寓 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1388,
+    "subdistrict_address" : "新市棠涌谢家中街4-6号",
+    "subdistrict_name" : "和澳公寓"
+}
+
+{
+    "area_direction" : "25M² | 朝南",
+    "floor" : "3/4",
+    "house_address_desc" : "白云-同和",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝南·3楼",
+    "house_id" : "6155962",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_fed7573e74544076.png",
+    "house_photo_num" : 6,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "非一楼", 
+        "朝南"
+    ],
+    "house_title" : "公寓 白水塘南街三巷8号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 930,
+    "subdistrict_address" : "白水塘南街三巷8号",
+    "subdistrict_name" : "白水塘南街三巷8号"
+}
+
+{
+    "area_direction" : "35M² | 朝南",
+    "floor" : "2/6",
+    "house_address_desc" : "3号线北延段(京溪南方医院站)，步行13分钟",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝南·2楼",
+    "house_id" : "5721989",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_7161f04d58e64cc1.png",
+    "house_photo_num" : 8,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "非一楼", 
+        "朝南"
+    ],
+    "house_title" : "公寓 白水塘南街三巷12号C栋 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1230,
+    "subdistrict_address" : "白水塘南街三巷12号C栋",
+    "subdistrict_name" : "白水塘南街三巷12号C栋"
+}
+
+{
+    "area_direction" : "25M² | 朝东北",
+    "floor" : "2/6",
+    "house_address_desc" : "3号线北延段(京溪南方医院站)，步行13分钟",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝东北·2楼",
+    "house_id" : "5721967",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_6f02327efeeb4180.jpeg",
+    "house_photo_num" : 13,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 白水塘南街三巷12号B栋 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 950,
+    "subdistrict_address" : "白水塘南街三巷12号B栋",
+    "subdistrict_name" : "白水塘南街三巷12号B栋"
+}
+
+{
+    "area_direction" : "50M² | 朝南",
+    "floor" : "6/7",
+    "house_address_desc" : "3号线北延段(同和站)，步行11分钟",
+    "house_area_desc" : "白云-同和",
+    "house_desc" : "朝南·6楼",
+    "house_id" : "4701175",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_c76d768d75004cb2.png",
+    "house_photo_num" : 7,
+    "house_tags" : [ 
+        "租金月付", 
+        "近地铁", 
+        "独卫", 
+        "电梯房", 
+        "非一楼", 
+        "朝南"
+    ],
+    "house_title" : "公寓 蟹山村西街38号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 2580,
+    "subdistrict_address" : "蟹山村西街38号",
+    "subdistrict_name" : "蟹山村西街38号"
+}
+
+{
+    "area_direction" : "20M² | 朝西北",
+    "floor" : "2/8",
+    "house_address_desc" : "白云-黄石",
+    "house_area_desc" : "白云-黄石",
+    "house_desc" : "朝西北·2楼",
+    "house_id" : "6748300",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_4a8a319412c648e1.png",
+    "house_photo_num" : 6,
+    "house_tags" : [ 
+        "租金月付", 
+        "新上架", 
+        "电梯房", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 鹤边新兴中街北一巷5号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 600,
+    "subdistrict_address" : "鹤边新兴中街北一巷5号",
+    "subdistrict_name" : "鹤边新兴中街北一巷5号"
+}
+
+{
+    "area_direction" : "40M² | 朝东南",
+    "floor" : "6/6",
+    "house_address_desc" : "白云-江夏",
+    "house_area_desc" : "白云-江夏",
+    "house_desc" : "朝东南·6楼",
+    "house_id" : "7010381",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_4eebff54d9dc4a9b.png",
+    "house_photo_num" : 10,
+    "house_tags" : [ 
+        "租金月付", 
+        "独卫", 
+        "新上架", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 江夏庙十五巷6号 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1300,
+    "subdistrict_address" : "江夏庙十五巷6号",
+    "subdistrict_name" : "江夏庙十五巷6号"
+}
+
+{
+    "area_direction" : "30M² | 朝东北",
+    "floor" : "2/5",
+    "house_address_desc" : "天河-车陂",
+    "house_area_desc" : "天河-车陂",
+    "house_desc" : "朝东北·2楼",
+    "house_id" : "7191215",
+    "house_image_desc" : "平台实拍·视频",
+    "house_img_source" : "房东提供",
+    "house_main_image" : "oss_450373f43f4e4613.jpeg",
+    "house_photo_num" : 11,
+    "house_tags" : [ 
+        "租金月付", 
+        "非一楼"
+    ],
+    "house_title" : "公寓 棠东毓桂大街五巷19号B栋 ",
+    "house_video_source" : "平台实拍",
+    "lan_co_type" : 2,
+    "month_rent" : 1280,
+    "subdistrict_address" : "棠东毓桂大街五巷19号B栋",
+    "subdistrict_name" : "棠东毓桂大街五巷19号B栋"
+}

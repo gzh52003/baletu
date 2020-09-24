@@ -1,0 +1,25 @@
+.place{
+    font-size: 14px;
+    color:#fff;
+    p{
+        display:inline-block;
+        margin: 0 10px;
+    }
+    i{
+        display:inline-block;
+        margin-right: 10px;
+        font-size: 10px;
+    }
+}
+.tag-container{
+    background-color: #fff;
+    padding:0 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid #f6f6f6;
+
+    .am-tag{
+        background:#f6f6f6;
+        color:#a0a0a0;
+    }
+}
