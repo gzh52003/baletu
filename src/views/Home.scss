@@ -1,0 +1,53 @@
+.home_header{
+    // background:url(./img/oss_5c2497f0c4f9f.jpg) no-repeat center;
+    // background-size:100%;
+    height:255px;
+    position:relative;
+    .ant-page-header{
+        padding:  10px;
+        .ant-page-header-heading-sub-title{
+            color: #fff;
+        }
+        .ant-page-header-heading-title{
+            color: #fff;
+            font-size: 14px;
+        }
+        .anticon-user{
+            color: #fff;
+            font-size: 20px;
+        }
+    }
+    .ant-input-affix-wrapper{
+        margin:0 9%;
+        width:82%;
+        height:41px;
+        line-height:41px;
+        position:absolute;
+        top:180px;
+        .SearchOutlined{
+            color: #bbb;
+        }
+    }
+}
+.gutter-row{
+    text-align: center;
+    padding: 20px 0 15px;
+    div{
+        width: 45px;
+        height: 45px;
+        margin: 0 auto;
+        border-radius: 40%;
+        .anticon{
+            color: #fff;
+            font-size: 28px;
+            line-height: 40px;
+            margin-top: 5px;
+        }
+    }
+    p{
+        font-size: 14px;
+        font-weight: bold;
+        color: #5a5c5d;
+        margin-top: 7.5px;
+    }
+}

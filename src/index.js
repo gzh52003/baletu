@@ -10,11 +10,11 @@ const Router = process.env.NODE_ENV === 'development' ? HashRouter : BrowserRout
  
 ReactDOM.render(
   // 采用严格模式
-  <React.StrictMode>
+  // <React.StrictMode>
     <Router>
         <App />
-    </Router>
-  </React.StrictMode>,
+    </Router>,
+  // </React.StrictMode>
   document.getElementById('root')
 );
 
