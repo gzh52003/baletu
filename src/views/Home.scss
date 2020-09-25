@@ -48,6 +48,67 @@
         font-size: 14px;
         font-weight: bold;
         color: #5a5c5d;
-        margin-top: 7.5px;
+        margin: 7.5px 0 0;
+    }
+}
+.recom{
+    .gutter-row{
+        padding: 0 !important;
+    }
+    img{
+        width: 164px;
+    }
+}
+.guess{
+    padding: 0 15px;
+    font-size: 17px;
+    line-height: 60px;
+    font-weight: bold;
+
+}
+.youLike{
+    padding:11px 0 0 ;
+    img{
+        width: 105px;
+        height: 105px;
+    }
+    .desc{
+        background:rgba(0,0,0,.3);
+        color: #FFF;
+        font-size: 10px;
+        font-weight: normal;
+        width: 105px;
+        line-height: 17px;
+        position: absolute;
+        right: 0;
+        left: 0;
+        top: 101px;
+        margin: 0 auto;
+    }
+    .gutter-row2{
+        text-align: left;
+        h2{
+            margin: 0;
+            font-size:16px;
+            font-weight: bold;
+            color: #1c1c1c;
+            word-break:keep-all;
+            white-space:nowrap;
+            overflow:hidden;
+            text-overflow:ellipsis;
+        }
+        span{
+            display: block;
+        }
+        .house-tag{
+            display:inline;
+            margin:0 5px 0 0;
+            padding:0 2px;
+            color:"#7f8c9c";
+            background:#f2f2f2;
+            font-size:11px;
+            border:none
+        }
+        
     }
 }
