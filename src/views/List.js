@@ -10,23 +10,23 @@ const tabs = [
     { title: '整租 ∨' },
     { title: '更多 ∨' },
   ];
-const Data = [
-    // {
-    //   img: 'https://zos.alipayobjects.com/rmsportal/dKbkpPXKfvZzWCM.png',
-    //   title: 'Meet hotel',
-    //   des: '不是所有的兼职汪都需要风吹日晒',
-    // },
-    // {
-    //   img: 'https://zos.alipayobjects.com/rmsportal/XmwCzSeJiqpkuMB.png',
-    //   title: 'McDonald\'s invites you',
-    //   des: '不是所有的兼职汪都需要风吹日晒',
-    // },
-    // {
-    //   img: 'https://zos.alipayobjects.com/rmsportal/hfVtzEhPzTUewPm.png',
-    //   title: 'Eat the week',
-    //   des: '不是所有的兼职汪都需要风吹日晒',
-    // },
-  ];
+// const datalist = [
+//     {
+//       img: 'https://zos.alipayobjects.com/rmsportal/dKbkpPXKfvZzWCM.png',
+//       title: 'Meet hotel',
+//       des: '不是所有的兼职汪都需要风吹日晒',
+//     },
+//     {
+//       img: 'https://zos.alipayobjects.com/rmsportal/XmwCzSeJiqpkuMB.png',
+//       title: 'McDonald\'s invites you',
+//       des: '不是所有的兼职汪都需要风吹日晒',
+//     },
+//     {
+//       img: 'https://zos.alipayobjects.com/rmsportal/hfVtzEhPzTUewPm.png',
+//       title: 'Eat the week',
+//       des: '不是所有的兼职汪都需要风吹日晒',
+//     },
+//   ];
   const NUM_ROWS = 20;
   let pageIndex = 0;
   function genData(pIndex = 0) {
@@ -46,16 +46,20 @@ class List extends React.Component{
         });
     
         this.state = {
+          datalist:[],
           dataSource,
           isLoading: true,
         };
       }
-      async componentDidMount() {
-          const {data} = await request.get('list')
-          this.Data = [...data]
-          console.log("Data=",this.Data)
-
-        setTimeout(() => {
+      async componentWillMount() {
+          const {data:datalist} = await request.get('list')
+          // this.Data = [...data]
+          
+          this.setState({
+            datalist:[...datalist]
+          })
+          // console.log(this.state.datalist)
+          setTimeout(() => {
           this.rData = genData();
           this.setState({
             dataSource: this.state.dataSource.cloneWithRows(this.rData),
@@ -63,6 +67,7 @@ class List extends React.Component{
           });
         }, 600);
       }
+      
       onEndReached = (event) => {
         // load new data
         // hasMore: from backend data, indicates whether it is the last page, here is false
@@ -80,19 +85,30 @@ class List extends React.Component{
         }, 1000);
       }
     render(){
-        let index = Data.length - 1;
+        let index = this.state.datalist.length - 1;
         const row = (rowData, sectionID, rowID) => {
-            if (index < 0) {
-            index = Data.length - 1;
-            }
-            const obj = Data[index--];
+          if (index < 0) {
+            index = this.state.datalist.length - 1;
+          }
+          const obj = this.state.datalist[index--];
             return (
                 <div key={rowID} style={{ padding: '0 15px' }}>
                     <div style={{ display: '-webkit-box', display: 'flex', padding: '15px 0' }}>
-                        <img style={{ height: '64px', marginRight: '15px' }} src={obj.img} alt="" />
+                        <img style={{ height: '105px',width:'105px', borderRadius:'5px', marginRight: '15px' }} src={'./img/'+obj.house_main_image} alt="" />
                         <div style={{ lineHeight: 1 }}>
-                        <div style={{ marginBottom: '8px', fontWeight: 'bold' }}>{obj.des}</div>
-                        <div><span style={{ fontSize: '30px', color: '#FF6E27' }}>{rowID}</span>¥</div>
+                          <h3>{obj.house_title}</h3>
+                          <div style={{ marginBottom: '8px', fontWeight: 'bold' }}>{obj.house_desc}</div>
+                          <div>{obj.house_area_desc}</div>
+                          <div>
+                            {
+                              obj.house_tags.map(item=>{
+                                
+                                return <Tag disabled small="turn" style={{padding:0,marginRight:5,color:'#7f8c9c',background:'#f2f2f2'}}>{item}</Tag>
+                              })
+                            }
+
+                          </div>
+                          <div><span style={{ fontSize: '16px', color: '#FF6E27' }}>{obj.month_rent}元</span></div>
                         </div>
                     </div>
                 </div>
@@ -114,6 +130,9 @@ class List extends React.Component{
                     <input type="text" placeholder="输入区域，小区搜索房源" style={{borderRadius:5,border:'none',paddingLeft:10,fontSize:12,height:28,width:205}}/>
                 </div>
                 </NavBar>
+
+                {/* {JSON.stringify(this.state.datalist)} */}
+                
                 <Tabs tabs={tabs} initialPage={2} animated={false} useOnPan={false} tabBarUnderlineStyle={{display:'none'}} tabBarInactiveTextColor='#5a5c5d'
                 tabBarActiveTextColor='#ee3943'
                 tabBarTextStyle={{fontSize:'.26rem'}}
