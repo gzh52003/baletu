@@ -11,10 +11,11 @@ import {
     TeamOutlined,
     AimOutlined
 } from '@ant-design/icons';
+import './houselist.scss'
 
 function Houselist(props){
     return(
-    <div className="youLike">
+    <div className="houselist_item">
         <Row gutter={24} style={{margin:"0"}}>
             <Col className="gutter-row" span={8} style={{padding: '12.5px 0',position:'relative'}}>
                 <img src={'./img/'+props.item.house_main_image}/>
