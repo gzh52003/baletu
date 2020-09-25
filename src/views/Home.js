@@ -1,6 +1,7 @@
 import React,{useState,useEffect} from 'react';
 import {Link} from 'react-router-dom';
 import { PageHeader,Input,Row, Col, Divider,Tag } from 'antd';
+import Houselist from '../components/houselist'
 import {
     CaretDownOutlined,
     UserOutlined,
@@ -48,7 +49,7 @@ function Home(){
 
 
     const [seven,setData] = useState([])
-    console.log(seven);
+    // console.log(seven);
     useEffect(()=>{
         const recom = async function(){
             try{
@@ -115,27 +116,7 @@ function Home(){
             <div style={{background:"#fff",overflow:'hidden'}}>
                 {
                     seven.map((item)=>{
-                        return <div className="youLike" key={item._id}>
-                            <Row gutter={24} style={{margin:"0"}}>
-                                <Col className="gutter-row" span={8} style={{padding: '12.5px 0',position:'relative'}}>
-                                    <img src={'./img/'+item.house_main_image}/>
-                                    <p className="desc">{item.house_img_source}:{item.house_photo_num}</p>
-                                </Col>
-                                <Col className="gutter-row2" span={16} style={{padding: '12.5px 0',position:'relative'}}>
-                                    <h2>{item.house_title}</h2>
-                                    <span style={{color:'#ea3943',margin:'8px 0 0',fontSize:12}}>按日退租·七日退款</span>
-                                    <span style={{fontSize:12,color:'#666'}}><AimOutlined style={{display:'inline',margin:'0 12px 0 0'}} />{item.house_address_desc}</span>
-                                    {
-                                        item.house_tags.map((i,idx)=>{
-                                            console.log(idx);
-                                            // <span >{i}</span>
-                                            return idx !== item.house_tags.length-1?<Tag key={idx} className='house-tag'>{i}</Tag>:<Tag key={idx} className='house-tag' style={{margin:0}}>{i}</Tag>
-                                        })
-                                    }
-                                    <span style={{color:"#ea3943",fontSize:17}}>{item.month_rent}元</span>
-                                </Col>
-                            </Row>
-                        </div>
+                        return <Houselist key={item._id} item={item}/>
                     })
                 }
             </div>
