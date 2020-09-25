@@ -1,6 +1,8 @@
 import React from 'react';
 import { NavBar, ListView , Tag, Tabs, Drawer, icon ,SearchBar, WingBlank, WhiteSpace } from 'antd-mobile';
 import request from '../utils/request'
+import Houselist from '../components/houselist'
+import {Link} from 'react-router-dom'
 
 import 'antd-mobile/dist/antd-mobile.css';
 import './List.scss'
@@ -90,40 +92,42 @@ class List extends React.Component{
           if (index < 0) {
             index = this.state.datalist.length - 1;
           }
-          const obj = this.state.datalist[index--];
-            return (
-                <div key={rowID} style={{ padding: '0 15px' }}>
-                    <div style={{ display: '-webkit-box', display: 'flex', padding: '15px 0' }}>
-                        <img style={{ height: '105px',width:'105px', borderRadius:'5px', marginRight: '15px' }} src={'./img/'+obj.house_main_image} alt="" />
-                        <div style={{ lineHeight: 1 }}>
-                          <h3>{obj.house_title}</h3>
-                          <div style={{ marginBottom: '8px', fontWeight: 'bold' }}>{obj.house_desc}</div>
-                          <div>{obj.house_area_desc}</div>
-                          <div>
-                            {
-                              obj.house_tags.map(item=>{
+          const item = this.state.datalist[index--];
+            return <Houselist key={item._id} item={item}/>
+              
+            // (
+            //     <div key={rowID} style={{ padding: '0 15px' }}>
+            //         <div style={{ display: '-webkit-box', display: 'flex', padding: '15px 0' }}>
+            //             <img style={{ height: '105px',width:'105px', borderRadius:'5px', marginRight: '15px' }} src={'./img/'+obj.house_main_image} alt="" />
+            //             <div style={{ lineHeight: 1 }}>
+            //               <h3>{obj.house_title}</h3>
+            //               <div style={{ marginBottom: '8px', fontWeight: 'bold' }}>{obj.house_desc}</div>
+            //               <div>{obj.house_area_desc}</div>
+            //               <div>
+            //                 {
+            //                   obj.house_tags.map(item=>{
                                 
-                                return <Tag disabled small="turn" style={{padding:0,marginRight:5,color:'#7f8c9c',background:'#f2f2f2'}}>{item}</Tag>
-                              })
-                            }
+            //                     return <Tag disabled small="turn" style={{padding:0,marginRight:5,color:'#7f8c9c',background:'#f2f2f2'}}>{item}</Tag>
+            //                   })
+            //                 }
 
-                          </div>
-                          <div><span style={{ fontSize: '16px', color: '#FF6E27' }}>{obj.month_rent}元</span></div>
-                        </div>
-                    </div>
-                </div>
-            );
+            //               </div>
+            //               <div><span style={{ fontSize: '16px', color: '#FF6E27' }}>{obj.month_rent}元</span></div>
+            //             </div>
+            //         </div>
+            //     </div>
+            // );
         };
         return (
             <div>
                 <NavBar
                     mode="light"
-                    leftContent={<i className={`iconfont icon-shouye`} style={{color:'#fff',fontWeight:"bold",fontSize:20}}></i>}
+                    leftContent={<Link to="/home"><i className={`iconfont icon-shouye`} style={{color:'#fff',fontWeight:"bold",fontSize:20}} ></i></Link>}
                     rightContent={<i className={`iconfont icon-wode`} style={{color:'#fff',fontSize:22}}></i>}
                     style={{backgroundColor:'#ee3943'}}
                 >
                 <div className={'place'}>
-                    <p>上海</p>
+                    <p>广州</p>
                     <i className={'iconfont icon-jiantou'}></i>
                 </div>
                 <div>
